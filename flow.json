@@ -1,1 +1,27 @@
-[]
+[
+    {
+        "id": "3f4162d233cdb7c2",
+        "type": "tab",
+        "label": "Flow 1",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "637350118d5856c2",
+        "type": "function",
+        "z": "3f4162d233cdb7c2",
+        "name": "",
+        "func": "\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 320,
+        "y": 240,
+        "wires": [
+            []
+        ]
+    }
+]
